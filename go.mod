@@ -3,7 +3,7 @@ module github.com/Phofuture/photon-gdbc-starter
 go 1.23.0
 
 require (
-	github.com/dennesshen/photon-core-starter v1.0.3
+	github.com/Phofuture/photon-core-starter v0.0.0-20250916060707-12acf34d9318
 	gorm.io/driver/mysql v1.5.7
 	gorm.io/driver/postgres v1.6.0
 	gorm.io/gorm v1.25.11

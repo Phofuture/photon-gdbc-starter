@@ -1,6 +1,6 @@
 package gdbc
 
-import "github.com/dennesshen/photon-core-starter/configuration"
+import "github.com/Phofuture/photon-core-starter/configuration"
 
 func init() {
 	configuration.Register(&databaseConfig)

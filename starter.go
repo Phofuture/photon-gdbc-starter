@@ -1,8 +1,8 @@
 package gdbcStarter
 
 import (
+	"github.com/Phofuture/photon-core-starter/core"
 	"github.com/Phofuture/photon-gdbc-starter/gdbc"
-	"github.com/dennesshen/photon-core-starter/core"
 )
 
 func init() {
